@@ -2,6 +2,6 @@
 
 Description!
 
-##SubHeader
+## SubHeader
 
 Try it on another branch.
